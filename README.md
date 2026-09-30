@@ -2,3 +2,11 @@
 
 This repository demonstrates my understanding of Git and GitHub.
 
+
+
+\##about this project
+
+
+
+this project demonstrates the basic workflow of Git, branches and GitHub.
+
