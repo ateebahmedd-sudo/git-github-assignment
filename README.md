@@ -25,3 +25,10 @@ this project demonstrates the basic workflow of Git, branches and GitHub.
 
 \#Documentation
 this section was created on the feature-documentation branch.
+
+
+##github
+this section was added directly through github
+
+
+
